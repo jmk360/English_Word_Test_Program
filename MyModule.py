@@ -11,7 +11,6 @@ t = 0 # 시간
 
 def read_data():
     path = os.getcwd()
-    print(path)
     with open(path+'/wordList.txt', 'r') as f:
         data = f.readlines()
         shuffle(data)
