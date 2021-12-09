@@ -1,0 +1,50 @@
+01 require 요구하다 
+02 technology 과학기술 
+03 individual 개인 
+04 provide 공급하다 
+05 object 물체 / 반대하다 
+06 level 수준, 정도 
+07 involve 포함하다, 관계하다 
+08 employ 고용하다 
+09 attitude 태도 
+10 improve 개량하다 
+11 research 조사하다 
+12 supply 공급하다 
+13 tend ～하는 경향이 있다 
+14 affect ～에 영향을 미치다 
+15 thus 이와 같이, 그러므로 
+16 benefit 이익, 은혜, 자선, 특권 
+17 demand 요구하다 
+18 occasion 경우, 행사, 의식 
+19 fashion 모양, 방식, 유행 
+20 recognize 알아보다, 인식하다 
+21 proper 적당한, 고유의 
+22 due 지불 기일이 된, ～할 예정인, 때문에 
+23 behave 행동하다, 작용하다 
+24 opportunity 기회 
+25 determine 결정하다, 결심하다 
+26 generate 발생하다 
+27 exist 존재하다 
+28 regret 유감, 후회 / 슬퍼하다, 후회하다 
+29 occur 일어나다, 떠오르다 
+30 available 쓸모 있는, 당선 가능한
+31 professional 직업상의 / 전문가 
+32 frequent 빈번한 / 빠른 
+33 contact 접촉, 교제, 연락 / 접촉하다 
+34 respond 대답하다, 반응하다 
+35 emotional 감동적인 
+36 diet 식이요법, 음식물 
+37 severe 심각한, 엄한 
+38 gloom 어둠, 우울 / 어두워지다 
+39 negative 부정적인 / 거절하다 
+40 victim 희생, 희생물 
+41 biology 생물학 
+42 obtain 얻다, 획득하다 
+43 heal 고치다, 치료하다 
+44 influence 영향, 세력 / 영향을 끼치다 
+45 critical 비평의, 비판적인, 중대한 
+46 aware 의식하고 있는 
+47 civil 일반 시민의, 국내의 
+48 immediate 즉시의, 당면한 
+49 material 원료, 인물 / 물질적인, 구체적인, 육체의 
+50 compose 구성하다, 작곡하다, 작문하다 
